@@ -1,4 +1,4 @@
-# ![image]('img/game.png')
+# ![image](img/game.png)
 
 
 # Prerequisites
